@@ -1,0 +1,14 @@
+export { default as Navigation } from "./navbar";
+export { default as Games } from "./games";
+export { default as Banner } from "./bannergames";
+export { default as ViewGame } from "./viewgame";
+export { default as Comments } from "./comments";
+export { default as Comms } from "./comment";
+export { default as GameUpload } from "./uploadgame";
+export { default as Proedit } from "./profileedit";
+export { default as Dash } from "./dashboard";
+export { default as Login } from "./login";
+export { default as Footer } from "./footer";
+export { default as Payment } from "./payments";
+export { default as Security } from "./security";
+export { default as Actions } from "./actions";
